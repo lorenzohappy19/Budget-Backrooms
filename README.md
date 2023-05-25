@@ -1,4 +1,5 @@
-# Budget Backrooms ![alpha](https://img.shields.io/github/v/release/DavidJoacaRo/Budget-Backrooms?include_prereleases) ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![dwnlds](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/total) ![last_commit](https://img.shields.io/github/last-commit/DavidJoacaRo/Budget-Backrooms/main) [![](https://dcbadge.vercel.app/api/server/WVuTB56ag4?style=flat&theme=default-inverted)](https://discord.gg/WVuTB56ag4)
+# Lory's Modpack (0.0.11 Vanilla)!
+### WARNING! THIS IS THE VANILLA BRANCH, IT'S NOT A MODDED VERSION. FOR THE MODDED VERSION SELECT THE SECOND BRANCH
 First-time project in Unreal Engine. This is what came out, **Budget Backrooms**.
 
 Non-procedural levels, goofy ahh AI's, and stolen sounds from `freesound.org`. Appreciating if you play it, give some feedback  [here](https://forms.gle/KpLdoD4cHb7tFGoo6) and yeah, enjoy!
