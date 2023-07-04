@@ -446,7 +446,7 @@
 		},
 		{
 			"Name": "XsollaLogin",
-			"Enabled": false,
+			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/62e5cde57b564c75bc9e6dffe2dedf88"
 		},
 		{
