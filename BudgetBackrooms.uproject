@@ -467,11 +467,6 @@
 			]
 		},
 		{
-			"Name": "Xsolla",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e32fb866a54a4a36a2359fb7a5251b59"
-		},
-		{
 			"Name": "ArchVisCharacter",
 			"Enabled": false
 		},
@@ -496,13 +491,24 @@
 			"Enabled": true
 		},
 		{
-			"Name": "DiscordRpc",
-			"Enabled": true
+			"Name": "HashAndEncryptToolsPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d5b19acb7874495b9b5cce835bf7a1b4"
 		},
 		{
-			"Name": "ImageResizUEr",
+			"Name": "EasyFileDialog",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/670be04026664663875aadd4dea45b9d"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bcf64fe2e00c48189d8385a9c39b6e61"
+		},
+		{
+			"Name": "ReadWritePlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/74b9f3d768c845ad8282fd4aa0cef343"
+		},
+		{
+			"Name": "DiscordRichPresence",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bea6edf5f297438ca3e8340702749642"
 		}
 	],
 	"TargetPlatforms": [
